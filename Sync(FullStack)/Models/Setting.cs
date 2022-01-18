@@ -12,6 +12,7 @@ namespace Sync_FullStack_.Models
         public int Id { get; set; }
         [MaxLength(250)]
         public string Logo { get; set; }
+
         [MaxLength(250)]
         public string MainTitle { get; set; }
         [MaxLength(500)]
