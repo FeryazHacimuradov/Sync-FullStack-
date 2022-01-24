@@ -9,7 +9,6 @@ C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\bin\Debug\net5.0\ref\Sync(
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\bin\Debug\net5.0\Sync(FullStack).pdb
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\bin\Debug\net5.0\Sync(FullStack).Views.dll
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\bin\Debug\net5.0\Sync(FullStack).Views.pdb
-C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Sync(FullStack).csproj.AssemblyReference.cache
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Sync(FullStack).GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Sync(FullStack).AssemblyInfoInputs.cache
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Sync(FullStack).AssemblyInfo.cs
@@ -155,3 +154,10 @@ C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Are
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\_ViewStart.cshtml.g.cs
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Home\Index.cshtml.g.cs
 C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Setting\Index.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Setting\Update.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Sync(FullStack).csproj.AssemblyReference.cache
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Socials\Create.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Socials\Delete.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Socials\Details.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Socials\Edit.cshtml.g.cs
+C:\Users\Fifi\Desktop\Sync(FullStack)\Sync(FullStack)\obj\Debug\net5.0\Razor\Areas\admin\Views\Socials\Index.cshtml.g.cs

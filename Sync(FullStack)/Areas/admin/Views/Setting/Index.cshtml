@@ -1,7 +1,6 @@
-﻿
+﻿@model Setting
 @{
     ViewData["Title"] = "Index";
-    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
 }
 
 <div class="container">
@@ -22,16 +21,16 @@
                 </thead>
                 <tbody>
                     <tr>
-                        <th scope="row">1</th>
-                        <td>Mark</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
-                        <td>Otto</td>
+                        <th scope="row">@Model.Id</th>
+                        <td>@Model.Logo</td>
+                        <td>@Model.MainTitle</td>
+                        <td>@Model.MainContent</td>
+                        <td>@Model.Image</td>
+                        <td>@Model.Email</td>
+                        <td>@Model.Address</td>
+                        <td>@Model.Phone</td>
                         <td>
-                            <a asp-area="admin" asp-controller="setting" asp-action="update" class="btn btn-success">Update</a>
+                            <a asp-area="admin" asp-controller="setting" asp-action="update" asp-route-id="@Model.Id" class="btn btn-success">Update</a>
                         </td>
                     </tr>
                 </tbody>

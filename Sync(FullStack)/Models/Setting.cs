@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -10,8 +12,11 @@ namespace Sync_FullStack_.Models
     {
         [Key]
         public int Id { get; set; }
+
         [MaxLength(250)]
         public string Logo { get; set; }
+        [NotMapped]
+        public IFormFile ImageFile { get; set; }
 
         [MaxLength(250)]
         public string MainTitle { get; set; }
@@ -19,6 +24,8 @@ namespace Sync_FullStack_.Models
         public string MainContent { get; set; }
         [MaxLength(250)]
         public string Image { get; set; }
+        [NotMapped]
+        public IFormFile ImageFile2 { get; set; }
         [MaxLength(250)]
         public string FooterTitle { get; set; }
         [MaxLength(250)]
